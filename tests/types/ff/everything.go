@@ -22,7 +22,7 @@ import (
 	"runtime"
 	"strconv"
 
-	"github.com/foo/vendored"
+	"github.com/sssgun/ffjson/tests/vendor/github.com/foo/vendored"
 )
 
 var ExpectedSomethingValue int8
